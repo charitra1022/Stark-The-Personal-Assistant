@@ -1,0 +1,25 @@
+In order to run this project, you need to have some requirements fulfilled. These are:-
+
+1. Python 3.7 required (Mandatory)
+2. Try to use an IDE like 'PyCharm' to run this project for better results 
+3. Install these modules and packages on your python interprter.
+
+(PyQt5)            pip install pyqt5
+(PyQt5 Tools)      pip install pyqt5-tools
+(Qt-Designer)      pip install pyqt5designer
+(Playsound)        pip install playsound
+(PyTTSX3)          pip install pyttsx3
+(Wikipedia)        pip install wikipedia
+(YouTube_Search)   pip install youtube_search
+(Pynput)           pip install pynput
+(PyAutoGUI)        pip install pyautogui
+(PyWin32)          pip install pywin32
+(Setup-Tools)      pip install --upgrade setuptools
+(PipWin)           pip install pipwin
+
+(PyAudio)          pipwin install pyaudio
+
+NOTE:- PyAudio installation might cause some problems. So please visit the link below to install it perfectly
+Link:- https://stackoverflow.com/questions/52283840/i-cant-install-pyaudio-on-windows-how-to-solve-error-microsoft-visual-c-14
+
+Without PyAudio, Voice Command feature will not work!
