@@ -7,5 +7,5 @@ This is a personal assistant made by me using Python 3 via PyQt5 framework. It c
 
 ---
 
-**About the directories and files**
+## About the directories and files
 There is a *resources* folder which contains all the important files such as audio, images, etc. for the proper functioning of **Stark**
