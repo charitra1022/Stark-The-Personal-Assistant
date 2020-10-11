@@ -5,3 +5,6 @@ This is a personal assistant made by me using Python 3 via PyQt5 framework. It c
 > **Important Note**	
 > Please read the *requirements.txt* file for installing the pre-requisites for running this project. Without these measures, the code will not work and will eventually break!
 
+---
+
+jykjth
