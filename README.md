@@ -11,3 +11,8 @@ This is a personal assistant made by me using Python 3 via PyQt5 framework. It c
 1. *'resources'* - This folder contains all the important files such as audio, images, etc. for the proper functioning of *Stark*.
 2. *'main.py'* - This is the main python script that contains all the code for running Stark.
 3. *'requirements.txt'* - This is just a simple txt file that contains the instructions for installation of the required packages and modules.
+
+---
+
+*More details will be added soon*
+
