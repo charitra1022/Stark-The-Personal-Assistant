@@ -245,11 +245,11 @@ class Ui_AboutAssistant(object):
             if string == 'instagram':
                 url = "https://www.instagram.com/everything_computerized/"
             if string == 'github':
-                url = "https://github.com/Chiku1022"
+                url = "https://github.com/Charitra1022"
             if string == 'quora':
                 url = "https://www.quora.com/profile/Charitra-Agarwal-1"
             if string == 'linkedin':
-                url = "https://www.linkedin.com/in/chiku1022/"
+                url = "https://www.linkedin.com/in/charitra1022/"
             if string == 'facebook':
                 url = "https://www.facebook.com/charitra.agarwal"
             if string == 'blogger':
